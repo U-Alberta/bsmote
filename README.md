@@ -40,6 +40,9 @@ Please download the dataset first from here: [Dataset](https://drive.google.com/
 
 # Results
 
+![](/result_1.png)
+
+![](/result_2.png)
 
 # Email us!
 
